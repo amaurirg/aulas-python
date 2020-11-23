@@ -47,4 +47,5 @@ pytest resolvidos/tests/test_exercicio03.py -v
 A opção -v serve para mostrar os nomes dos testes
 ![Pytest -v](imagens/pytest_-v.png)
 
-
+Para configurar o Pytest no PyCharm, vá em File -> Settings -> Tools -> Python Integrated Tools e altere de Unittests para pytest
+![Pytest PyCharm](imagens/pytest_pycharm.png)
